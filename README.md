@@ -1,1 +1,2 @@
-# bellybutton.github.io
+# belly-button-challenge
+belly-button-challenge
